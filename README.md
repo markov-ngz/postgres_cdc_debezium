@@ -1,4 +1,4 @@
-# postgres-cdc
+# postgres_cdc_debezium
 Repository dedicated to the exploitation of the  postgres write ahead logging (WAL) in order to capture data change ( CDC). <br>
 Please note that the settings are not for production or testing. 
 
